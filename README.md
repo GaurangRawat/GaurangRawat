@@ -1,5 +1,13 @@
 <h1>Hi 👋, I'm Gaurang Rawat</h1>
-<p>A passionate frontend developer from </p>
+<p><ul></ul><li>AI/ML Enthusiast with a strong passion for innovation.</li>
+<li></li>Builder of Practical Tools aimed at simplifying everyday life.</li>
+<li>Problem-Solver focused on leveraging AI to create impactful solutions.</li>
+<li>Open to Collaboration with like-minded individuals.</li>
+<li>Tech-Savvy & Hands-On in developing AI-driven applications.</li>
+<li>Entrepreneurial Thinker exploring AI-powered business ideas.</li>
+<li>Always Learning & Experimenting with the latest in AI/ML.</li>
+</ul>
+</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
