@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Gaurang Rawat</h1>
 <p><ul></ul><li>AI/ML Enthusiast with a strong passion for innovation.</li>
-<li></li>Builder of Practical Tools aimed at simplifying everyday life.</li>
+<li>Builder of Practical Tools aimed at simplifying everyday life.</li>
 <li>Problem-Solver focused on leveraging AI to create impactful solutions.</li>
 <li>Open to Collaboration with like-minded individuals.</li>
 <li>Tech-Savvy & Hands-On in developing AI-driven applications.</li>
